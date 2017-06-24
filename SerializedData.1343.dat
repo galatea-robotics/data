@@ -1,0 +1,24 @@
+$!Color,
+    10:UVRed:Red:/wAB
+    11:Red:Red:/wAA
+    12:Yellow:Yellow://8A
+    13:Green:Green:AP8A
+    14:Blue:Blue:AAD/
+    108:ORANGE:ORANGE:/m0i:Test;Engine.User;Galatea.Runtime.Services.User
+    109:Purrrple:Purrrple:QABA:Test;Engine.User;Galatea.Runtime.Services.User
+$!Shape,
+    1:Circle:Round:Round
+    2:Triangle:Triangular:;False,False,Concave;False,False,Concave;False,False,Concave
+    3:Quadrilateral:Four Corners:;False,False,Concave;False,False,Concave;False,False,Concave;False,False,Concave
+    4:Chevron:Chevron:;False,False,Concave;False,False,Concave;False,False,Concave;False,False,Convex
+    110:PIE SHAPED:PIE SHAPED:;False,True,Concave;True,False,Concave;False,False,Concave;False,True,Convex:Test;Engine.User;Galatea.Runtime.Services.User
+    111:a STAR:a STAR:;False,True,Concave;False,True,Convex;False,True,Concave;False,True,Convex;False,True,Concave;False,True,Convex;False,True,Concave;False,True,Convex;False,True,Concave;False,True,Convex:Test;Engine.User;Galatea.Runtime.Services.User
+$!Symbol,
+    101:A:Letter A:8,8,0001110000111100001111000011110001110110011111100111111111100111
+    102:B:Letter B:8,8,1111111011111111111001111111111011111111111001111111111111111110
+    103:C:Letter C:8,8,0001111001111111011100101110000011100000111000000111111100111110
+    104:D:Letter D:8,8,1111110011111110111001111110011111100111111001111111111111111110
+    107:G:Letter G:8,8,0011111001111111111000101110000011000111111000110111111100111110
+$FB!
+11,Meh,Test,1;10,Neutral,Test,1;-1,Meh,Test,1;0,Meh,Test,1
+!$
