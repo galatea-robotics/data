@@ -76,6 +76,8 @@ $!Symbol,
     226:z:lowercase z:8,8,0000000000111110000111100001110000111000001111100011111000000000
     227:$:DOLLAR SIGN:8,8,0000100000111110110010000111100000001011000010110011100000001000:Test;Galatea.Runtime.Services.User
     228:#:POUND SIGN:8,8,0000001000010010000101100011010000100100111111100010100000001000:Test;Galatea.Runtime.Services.User
+$!PatternEntity,
+    229:Yellow_PIE SHAPED:PAC-MAN:Shape^Color,Yellow;Shape,PIE SHAPED:Test;Galatea.Runtime.Services.User
 $FB!
-11,Meh,Test,1;10,Neutral,Test,1;-1,Meh,Test,83;0,Meh,Test,1;101,Meh,Test,1;104,Meh,Test,1;107,Meh,Test,1;120,Meh,Test,1;131,Meh,Test,1;134,Neutral,Test,1
+11,Meh,Test,1;10,Neutral,Test,1;-1,Meh,Test,83;0,Meh,Test,1;101,Meh,Test,1;104,Meh,Test,1;107,Meh,Test,1;120,Meh,Test,1;131,Meh,Test,1;134,Neutral,Test,1;132,Neutral,Peanut,1
 !$
