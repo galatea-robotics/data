@@ -6,7 +6,6 @@ $!Color,
     14:Blue:Blue:AAD/^
     15:ORANGE:ORANGE:/m0i^:Test;Galatea.Runtime.Services.User
     16:PURPLE:PURPLE:QABA^:Test;Galatea.Runtime.Services.User
-    303:Aqua:Aqua:EoiJ^Color|Blue|Contains,Color|Green|Contains:Test;Galatea.Runtime.Services.User
 $!Shape,
     21:Circle:Round:Round^
     22:Triangle:Triangular:;False,False,Concave;False,False,Concave;False,False,Concave^
