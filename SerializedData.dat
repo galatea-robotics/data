@@ -6,6 +6,9 @@ $!Color,
     14:Blue:Blue:AAD/^
     15:ORANGE:ORANGE:/m0i^:Test;Galatea.Runtime.Services.User
     16:PURPLE:PURPLE:QABA^:Test;Galatea.Runtime.Services.User
+    303:Pink:Pink:+5av^Color|Red|Comparison:Test;Galatea.Runtime.Services.User
+    304:Navy Blue:Navy Blue:Agdi^Color|Blue|Comparison:Test;Galatea.Runtime.Services.User
+    305:Maroon:Maroon:YAAA^Color|Red|Comparison:Test;Galatea.Runtime.Services.User
 $!Shape,
     21:Circle:Round:Round^
     22:Triangle:Triangular:;False,False,Concave;False,False,Concave;False,False,Concave^
@@ -81,5 +84,5 @@ $!PatternEntity,
     301:Red_Octagon:STOP SIGN:Shape^Color,Red;Shape,Octagon:Test;Galatea.Runtime.Services.User
     302:Yellow_PIE SHAPED:PAC-MAN:Shape^Color,Yellow;Shape,PIE SHAPED:Test;Galatea.Runtime.Services.User
 $FB!
-11,Meh,Test,1;10,Neutral,Test,1;-1,Meh,Test,84;0,Meh,Test,4;101,Meh,Test,1;104,Meh,Test,1;107,Meh,Test,1;120,Meh,Test,1;131,Meh,Test,1;134,Neutral,Test,1;-1,Neutral,Test,5;119,Neutral,Test,1;-99,Meh,Test,2;0,Neutral,Test,1;-99,Neutral,Test,1
+11,Meh,Test,1;10,Neutral,Test,1;-1,Meh,Test,84;0,Meh,Test,4;101,Meh,Test,1;104,Meh,Test,1;107,Meh,Test,1;120,Meh,Test,1;131,Meh,Test,1;134,Neutral,Test,1;-1,Neutral,Test,5;119,Neutral,Test,1;-99,Meh,Test,2;0,Neutral,Test,1;-99,Neutral,Test,1;-100,Neutral,Test,3
 !$
