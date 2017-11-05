@@ -13,6 +13,7 @@ $!Shape,
     24:Chevron:Chevron:;False,False,Concave;False,False,Concave;False,False,Concave;False,False,Convex
     25:PIE SHAPED:PIE SHAPED:;False,True,Concave;True,False,Concave;False,False,Concave;False,True,Convex:Test;Galatea.Runtime.Services.User
     26:a STAR:a STAR:;False,True,Concave;False,True,Convex;False,True,Concave;False,True,Convex;False,True,Concave;False,True,Convex;False,True,Concave;False,True,Convex;False,True,Concave;False,True,Convex:Test;Galatea.Runtime.Services.User
+    27:Octagon:Octagon:;False,False,Concave;False,False,Concave;False,False,Concave;False,False,Concave;False,False,Concave;False,False,Concave;False,False,Concave;False,False,Concave
 $!Symbol,
     101:A:Letter A:8,8,0001110000111100001111000011110001110110011111100111111111100111
     102:B:Letter B:8,8,1111111011111111111001111111111011111111111001111111111111111110
